@@ -58,8 +58,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="858" lean-forward="true" selection-start-line="858" selection-end-line="858" />
+            <state relative-caret-position="185">
+              <caret line="858" column="83" selection-start-line="858" selection-start-column="83" selection-end-line="858" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AL_beta-sources/Search/full-screen-table.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="852" column="8" lean-forward="true" selection-start-line="852" selection-start-column="8" selection-end-line="852" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -75,10 +84,23 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>img</find>
       <find>backgr</find>
       <find>alert</find>
+      <find>Naida</find>
+      <find>link</find>
+      <find>sass</find>
+      <find>img</find>
+      <find>table.js</find>
+      <find>compa</find>
+      <find>css</find>
+      <find>bootstrap-table</find>
+      <find>pull-left</find>
+      <find>table-header</find>
+      <find>form-con</find>
       <find>script</find>
+      <find>jqu</find>
+      <find>scrip</find>
+      <find>scri</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -135,7 +157,7 @@
               <item name="AL_beta" type="b2602c69:ProjectViewProjectNode" />
               <item name="AL_beta" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AL_beta" type="b2602c69:ProjectViewProjectNode" />
@@ -250,13 +272,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AL_beta-sources/Search/full-screen-table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="21" selection-end-line="939" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AL_beta/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1503">
@@ -302,10 +317,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../AL_beta-sources/Search/full-screen-table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="852" column="8" lean-forward="true" selection-start-line="852" selection-start-column="8" selection-end-line="852" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="858" lean-forward="true" selection-start-line="858" selection-end-line="858" />
+        <state relative-caret-position="185">
+          <caret line="858" column="83" selection-start-line="858" selection-start-column="83" selection-end-line="858" selection-end-column="83" />
         </state>
       </provider>
     </entry>
